@@ -10,10 +10,17 @@ A simple MATLAB interface which allows to perform subjective evaluation tests us
 # Usage
 Run subTestForm.m for a demo
 
-# References
+# Citation
+```bibtex
+@article{
+  author = {Falah Jabar et.al},
+  title = {Objective Assessment of Perceived Geometric Distortions in Viewport Rendering of 360⸰ Images},
+  journal = {IEEE J. Sel. Top. Signal Process.},
+  year = {2020},
+doi = {10.1109/JSTSP.2019.2962970}
+}
+```
 
-[1] ITU-R Recommendation BT.500-13, “Methodology for the Subjective
-Assessment of the Quality of Television Pictures,” ITU, Geneva,
-Switzerland, Jan. 2012. \
-[2] F. Jabar, J. Ascenso, and M.P. Queluz, “Objective Assessment of Perceived Geometric Distortions in Viewport Rendering of 360⸰ Images”, IEEE J. Sel. Top. Signal Process., vol. 14, no. 1, pp. 49-63, Jan. 2020
+# Contact:
 
+If you have any questions or comments, please feel free to contact: falah.rahim@unn.no
