@@ -17,7 +17,7 @@ Run subTestForm.m for a demo
   title = {Objective Assessment of Perceived Geometric Distortions in Viewport Rendering of 360⸰ Images},
   journal = {IEEE J. Sel. Top. Signal Process.},
   year = {2020},
-doi = {10.1109/JSTSP.2019.2962970}
+  doi = {10.1109/JSTSP.2019.2962970}
 }
 ```
 
