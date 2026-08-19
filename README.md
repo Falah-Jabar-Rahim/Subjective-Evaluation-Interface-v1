@@ -1,7 +1,6 @@
 # Introduction
 
-A simple MATLAB interface which allows to perform subjective evaluation tests using Stimulus Comparison Adjectival Categorical Judgment (SCACJ) method [1]. In this method, two stimuli (e.g., images or videos) are shown side by side and then the subject gives a score between +1 (slightly better) and +3 (much better) to the most pleasant image, or a score of 0 in case of similar quality. After, the subjective scores are normalized in the range [0,10]. Refer to [2] for more details. 
-
+A simple MATLAB interface for conducting subjective evaluation using the Stimulus Comparison Adjectival Categorical Judgment (SCACJ) method. In this approach, two stimuli (e.g., images or videos) are displayed side by side, and the observer assigns a score from +1 (slightly better) to +3 (much better) to the preferred stimulus, or 0 if both are perceived to have similar quality. The collected scores are then normalized to the range [0, 10] for analysis.
 ![](https://github.com/Falah-Jabar-Rahim/Subjective-Evaluation-Interface-v1/blob/main/Interface.PNG)
 
 # Dependences
